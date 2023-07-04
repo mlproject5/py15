@@ -9,7 +9,7 @@ from fpdf import FPDF
 import pyttsx3
 import tempfile
 from PyPDF2 import PdfReader
-
+import warnings
 
 st.set_page_config(page_title='PDFOT', page_icon='pdf.png', layout="centered", initial_sidebar_state="auto", menu_items=None)
 
