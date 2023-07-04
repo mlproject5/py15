@@ -6,4 +6,4 @@ PyPDF2==3.0.1
 pyttsx3==2.90
 streamlit==1.22.0
 python-docx
-pypiwin32
+pywin32
